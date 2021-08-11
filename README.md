@@ -43,10 +43,10 @@ Image Using Physical Consistency
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Towards_Better_Generalization_Joint_Depth-Pose_Learning_Without_PoseNet_CVPR_2020_paper.pdf)] Towards Better Generalization: Joint Depth-Pose Learning without PoseNet [[code](https://github.com/B1ueber2y/TrianFlow)]![Github starts](https://img.shields.io/github/stars/B1ueber2y/TrianFlow.svg) :fire::star:
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Online_Depth_Learning_Against_Forgetting_in_Monocular_Videos_CVPR_2020_paper.pdf)] Online Depth Learning against Forgetting in Monocular Videos
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Poggi_On_the_Uncertainty_of_Self-Supervised_Monocular_Depth_Estimation_CVPR_2020_paper.pdf)] On the uncertainty of self-supervised monocular depth estimation
-- [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750052.pdf)] S</sup>3</sup>Net: Semantic-Aware Self-supervised Depth Estimation with Monocular Videos and Synthetic Data
+- [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750052.pdf)] S<sup>3</sup>Net: Semantic-Aware Self-supervised Depth Estimation with Monocular Videos and Synthetic Data
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730443.pdf)] Unsupervised Monocular Depth Estimation for Night-time Images using Adversarial Domain Feature Adaptation
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710579.pdf)] Guiding Monocular Depth Estimation Using Depth-Attention Volume
-- [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690205.pdf)] P</sup>2</sup>Net: Patch-match and Plane-regularization for Unsupervised Indoor Depth Estimation
+- [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690205.pdf)] P<sup>2</sup>Net: Patch-match and Plane-regularization for Unsupervised Indoor Depth Estimation
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690205.pdf)] Self-Supervised Monocular Depth Estimation Solving the Dynamic Object Problem by Semantic Guidance
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640562.pdf)] Feature-metric Loss for Self-supervised Learning of Depth and Egomotion
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620766.pdf)] Multi-Loss Rebalancing Algorithm for Monocular Depth Estimation
