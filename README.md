@@ -21,6 +21,11 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[IJCV](https://arxiv.org/pdf/2105.11610.pdf)] Unsupervised Scale-consistent Depth Learning from Video [[code](https://github.com/JiawangBian/SC-SfMLearner-Release)]![Github stars](https://img.shields.io/github/stars/JiawangBian/SC-SfMLearner-Release.svg)  (Extended version of [NeurIPS 2019](https://papers.nips.cc/paper/8299-unsupervised-scale-consistent-depth-and-ego-motion-learning-from-monocular-video.pdf)) [[Project webpage](https://jwbian.net/sc-sfmlearner)] :fire:
 
 
+## 2020
+
+- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guizilini_3D_Packing_for_Self-Supervised_Monocular_Depth_Estimation_CVPR_2020_paper.pdf)] 3D Packing for Self-Supervised Monocular Depth Estimation [[code](https://github.com/TRI-ML/packnet-sfm)]![Github starts](https://img.shields.io/github/stars/TRI-ML/packnet-sfm.svg) :fire::star: 
+
+
 ## 2019
 
 - [[ICCV](https://arxiv.org/pdf/1806.01260)] Digging Into Self-Supervised Monocular Depth Estimation [[code](https://github.com/nianticlabs/monodepth2)]![Github stars](https://img.shields.io/github/stars/nianticlabs/monodepth2.svg) :fire::star: 
