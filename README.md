@@ -24,11 +24,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Guizilini_Sparse_Auxiliary_Networks_for_Unified_Monocular_Depth_Prediction_and_Completion_CVPR_2021_paper.pdf)] Sparse Auxiliary Networks for Unified Monocular Depth Prediction and Completion
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Ramamonjisoa_Single_Image_Depth_Prediction_With_Wavelet_Decomposition_CVPR_2021_paper.pdf)] Single Image Depth Prediction with Wavelet Decomposition [[code](https://github.com/nianticlabs/wavelet-monodepth)]![Github stars](https://img.shields.io/github/stars/nianticlabs/wavelet-monodepth.svg) :fire:
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Watson_The_Temporal_Opportunist_Self-Supervised_Multi-Frame_Monocular_Depth_CVPR_2021_paper.pdf)] The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth [[code](https://github.com/nianticlabs/manydepth)]![Github stars](https://img.shields.io/github/stars/nianticlabs/manydepth.svg) :fire:
-- [[TIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9405457)] Unsupervised Monocular Depth Estimation via
-Recursive Stereo Distillation
+- [[TIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9405457)] Unsupervised Monocular Depth Estimation via Recursive Stereo Distillation
 - [[TIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9416235)] MLDA-Net: Multi-Level Dual Attention-Based Network for Self-Supervised Monocular Depth Estimation
-- [[TIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9366926)] Joint Depth and Defocus Estimation From a Single
-Image Using Physical Consistency
+- [[TIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9366926)] Joint Depth and Defocus Estimation From a Single Image Using Physical Consistency
 - [[TPAMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8865619)] Deep Depth from Uncalibrated Small Motion Clip
 - [[TPAMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9018142)] DENAO: Monocular Depth Estimation Network With Auxiliary Optical Flow
 
