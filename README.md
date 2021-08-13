@@ -66,13 +66,13 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV](https://arxiv.org/pdf/1904.04998.pdf)] Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras [[code](https://github.com/google-research/google-research/tree/master/depth_and_motion_learning)]![Github stars](https://img.shields.io/github/stars/google-research/google-research.svg) :fire::star: 
 - [[ICCV](https://arxiv.org/pdf/1909.09051.pdf)] Self-Supervised Monocular Depth Hints [[code](https://github.com/nianticlabs/depth-hints)]![Github stars](https://img.shields.io/github/stars/nianticlabs/depth-hints.svg) :fire:
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Recurrent_Neural_Network_for_Un-Supervised_Learning_of_Monocular_Video_Visual_CVPR_2019_paper.pdf)] Recurrent Neural Network for (Un-)supervised Learning of Monocular Video Visual Odometry and Depth
-- [CVPR(https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Neural_RGBrD_Sensing_Depth_and_Uncertainty_From_a_Video_Camera_CVPR_2019_paper.pdf)] Neural RGB→D Sensing: Depth and Uncertainty from a Video Camera 
+- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Neural_RGBrD_Sensing_Depth_and_Uncertainty_From_a_Video_Camera_CVPR_2019_paper.pdf)] Neural RGB→D Sensing: Depth and Uncertainty from a Video Camera 
 
 
 ## 2018
 
-- [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Deep_Ordinal_Regression_CVPR_2018_paper.pdf)] Deep Ordinal Regression Network for Monocular Depth Estimation [[code](https://github.com/liviniuk/DORN_depth_estimation_Pytorch)]![Github stars](https://img.shields.io/github/stars/liviniuk/DORN_depth_estimation_Pytorch.svg) :fire::star: 
-- [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Structured_Attention_Guided_CVPR_2018_paper.pdf)] Structured Attention Guided Convolutional Neural Fields for Monocular Depth Estimation [[code](https://github.com/danxuhk/StructuredAttentionDepthEstimation)]![Github stars](https://img.shields.io/github/stars/danxuhk/StructuredAttentionDepthEstimation.svg) :fire::star: 
+- [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Deep_Ordinal_Regression_CVPR_2018_paper.pdf)] Deep Ordinal Regression Network for Monocular Depth Estimation [[code](https://github.com/liviniuk/DORN_depth_estimation_Pytorch)]![Github stars](https://img.shields.io/github/stars/liviniuk/DORN_depth_estimation_Pytorch.svg)
+- [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Structured_Attention_Guided_CVPR_2018_paper.pdf)] Structured Attention Guided Convolutional Neural Fields for Monocular Depth Estimation [[code](https://github.com/danxuhk/StructuredAttentionDepthEstimation)]![Github stars](https://img.shields.io/github/stars/danxuhk/StructuredAttentionDepthEstimation.svg)
 - [[ECCV](https://openaccess.thecvf.com/content_ECCV_2018/papers/Jianbo_Jiao_Look_Deeper_into_ECCV_2018_paper.pdf)] Look Deeper into Depth: Monocular Depth Estimation with Semantic Booster and Attention-Driven Loss 
 
 ## 2017
