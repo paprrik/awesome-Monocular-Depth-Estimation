@@ -29,6 +29,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[TIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9366926)] Joint Depth and Defocus Estimation From a Single Image Using Physical Consistency
 - [[TPAMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8865619)] Deep Depth from Uncalibrated Small Motion Clip
 - [[TPAMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9018142)] DENAO: Monocular Depth Estimation Network With Auxiliary Optical Flow
+- [[CVPR](https://arxiv.org/abs/2103.13413)] Vision Transformers for Dense Prediction [[code](https://github.com/isl-org/DPT)]![Github stars](https://img.shields.io/github/stars/isl-org/DPT.svg) :fire:
+- [[CVPR](https://arxiv.org/abs/2103.02396v2)] S<sup>3</sup>: Learnable Sparse Signal Superdensity for Guided Depth Estimation
+- [[CVPR](https://arxiv.org/pdf/2012.05901.pdf)] Robust Consistent Video Depth Estimation [[code](https://github.com/facebookresearch/robust_cvd)]![Github stars](https://img.shields.io/github/stars/facebookresearch/robust_cvd.svg)
+
 
 
 ## 2020
@@ -58,7 +62,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[TPAMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8834825)] Unsupervised Domain Adaptation for Depth Prediction from Images
 - [[NIPS](https://arxiv.org/pdf/2008.03633v2.pdf)] Forget About the LiDAR: Self-Supervised DepthEstimators with MED Probability Volumes [[code](https://github.com/JuanLuisGonzalez/FAL_net)]![Github starts](https://img.shields.io/github/stars/JuanLuisGonzalez/FAL_net.svg)
 - [[NIPS](https://arxiv.org/pdf/2006.08602.pdf)] Targeted Adversarial Perturbations for Monocular Depth Prediction [[code](https://github.com/alexklwong/targeted-adversarial-perturbations-monocular-depth)]![Github starts](https://img.shields.io/github/stars/alexklwong/targeted-adversarial-perturbations-monocular-depth.svg)
- 
+- [[ECCV](https://arxiv.org/abs/2004.10681v2)] Pseudo RGB-D for Self-Improving Monocular SLAM and Depth Prediction
+- [[ICLR](https://arxiv.org/abs/1812.04605)] DeepV2D: video to depth with differentiable
+- [[ICLR](https://arxiv.org/abs/2002.12319)] Semantically-Guided Representation Learning for Self-Supervised Monocular Depth
+
 
 ## 2019
 
@@ -67,6 +74,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV](https://arxiv.org/pdf/1909.09051.pdf)] Self-Supervised Monocular Depth Hints [[code](https://github.com/nianticlabs/depth-hints)]![Github stars](https://img.shields.io/github/stars/nianticlabs/depth-hints.svg) :fire:
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Recurrent_Neural_Network_for_Un-Supervised_Learning_of_Monocular_Video_Visual_CVPR_2019_paper.pdf)] Recurrent Neural Network for (Un-)supervised Learning of Monocular Video Visual Odometry and Depth
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Neural_RGBrD_Sensing_Depth_and_Uncertainty_From_a_Video_Camera_CVPR_2019_paper.pdf)] Neural RGB→D Sensing: Depth and Uncertainty from a Video Camera 
+- [[ICCV](https://arxiv.org/abs/1906.05717)] Unsupervised Monocular Depth and Ego-motion Learning with Structure and Semantics [[code](https://sites.google.com/corp/view/struct2depth)]
+- [[3DV](https://arxiv.org/abs/1908.03127v2)] Enhancing self-supervised monocular depth estimationwith traditional visual odometry
 
 
 ## 2018
@@ -74,6 +83,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Deep_Ordinal_Regression_CVPR_2018_paper.pdf)] Deep Ordinal Regression Network for Monocular Depth Estimation [[code](https://github.com/liviniuk/DORN_depth_estimation_Pytorch)]![Github stars](https://img.shields.io/github/stars/liviniuk/DORN_depth_estimation_Pytorch.svg)
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Structured_Attention_Guided_CVPR_2018_paper.pdf)] Structured Attention Guided Convolutional Neural Fields for Monocular Depth Estimation [[code](https://github.com/danxuhk/StructuredAttentionDepthEstimation)]![Github stars](https://img.shields.io/github/stars/danxuhk/StructuredAttentionDepthEstimation.svg)
 - [[ECCV](https://openaccess.thecvf.com/content_ECCV_2018/papers/Jianbo_Jiao_Look_Deeper_into_ECCV_2018_paper.pdf)] Look Deeper into Depth: Monocular Depth Estimation with Semantic Booster and Attention-Driven Loss 
+- [[ECCV](https://www.robots.ox.ac.uk/~vedaldi/assets/pubs/klodt18supervising.pdf)] Supervising the new with the old: learning SFM from SFM
+- [[CVPR](https://ieeexplore.ieee.org/document/8578141)] Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction
+
 
 ## 2017
 
