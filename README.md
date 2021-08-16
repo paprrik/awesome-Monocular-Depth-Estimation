@@ -74,7 +74,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV](https://arxiv.org/pdf/1909.09051.pdf)] Self-Supervised Monocular Depth Hints [[code](https://github.com/nianticlabs/depth-hints)]![Github stars](https://img.shields.io/github/stars/nianticlabs/depth-hints.svg) :fire:
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Recurrent_Neural_Network_for_Un-Supervised_Learning_of_Monocular_Video_Visual_CVPR_2019_paper.pdf)] Recurrent Neural Network for (Un-)supervised Learning of Monocular Video Visual Odometry and Depth
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Neural_RGBrD_Sensing_Depth_and_Uncertainty_From_a_Video_Camera_CVPR_2019_paper.pdf)] Neural RGB→D Sensing: Depth and Uncertainty from a Video Camera 
-- [[ICCV](https://arxiv.org/abs/1906.05717)] Unsupervised Monocular Depth and Ego-motion Learning with Structure and Semantics [[code](https://sites.google.com/corp/view/struct2depth)]
+- [[CVPRW](https://arxiv.org/abs/1906.05717)] Unsupervised Monocular Depth and Ego-motion Learning with Structure and Semantics [[code](https://sites.google.com/corp/view/struct2depth)]
 - [[3DV](https://arxiv.org/abs/1908.03127v2)] Enhancing self-supervised monocular depth estimationwith traditional visual odometry
 
 
