@@ -13,8 +13,8 @@
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
 
-
-
+## 2023
+- [[CVPR](https://arxiv.org/pdf/2302.12288)] ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth [[code](https://github.com/isl-org/ZoeDepth)]![Github stars] :fire::star:
 ---
 ## 2021
 
